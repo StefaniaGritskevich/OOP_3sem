@@ -1,0 +1,37 @@
+Подкаталоги
+D:\$RECYCLE.BIN
+D:\2 sem
+D:\2sem
+D:\3сем
+D:\asid
+D:\C#
+D:\Camera Roll
+D:\Games
+D:\git
+D:\huistory
+D:\js
+D:\kpo_Narkevich
+D:\krisa
+D:\kura
+D:\Lab7
+D:\nataska
+D:\oaip
+D:\OPI_lab11_2.0
+D:\OPI_lab11_3.0
+D:\papka
+D:\System Volume Information
+D:\[dixen18] Mass Effect. Legendary Edition
+D:\для север
+D:\ксис2к
+D:\курсовой проект_2.0
+D:\кяр
+D:\папка
+D:\численные методы
+
+Файлы:
+D:\3сем.rar
+D:\DumpStack.log
+D:\DumpStack.log.tmp
+D:\Lab7.rar
+D:\pagefile.sys
+D:\Дискретная математика.docx

@@ -1,0 +1,7 @@
+D:\C#\kontrolnaya\kontrolnaya\kontrolnaya\bin\Debug\kontrolnaya.exe.config
+D:\C#\kontrolnaya\kontrolnaya\kontrolnaya\bin\Debug\kontrolnaya.exe
+D:\C#\kontrolnaya\kontrolnaya\kontrolnaya\bin\Debug\kontrolnaya.pdb
+D:\C#\kontrolnaya\kontrolnaya\kontrolnaya\obj\Debug\kontrolnaya.csproj.AssemblyReference.cache
+D:\C#\kontrolnaya\kontrolnaya\kontrolnaya\obj\Debug\kontrolnaya.csproj.CoreCompileInputs.cache
+D:\C#\kontrolnaya\kontrolnaya\kontrolnaya\obj\Debug\kontrolnaya.exe
+D:\C#\kontrolnaya\kontrolnaya\kontrolnaya\obj\Debug\kontrolnaya.pdb

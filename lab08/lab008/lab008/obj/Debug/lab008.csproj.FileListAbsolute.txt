@@ -1,0 +1,7 @@
+D:\C#\lab08\lab008\lab008\bin\Debug\lab008.exe.config
+D:\C#\lab08\lab008\lab008\bin\Debug\lab008.exe
+D:\C#\lab08\lab008\lab008\bin\Debug\lab008.pdb
+D:\C#\lab08\lab008\lab008\obj\Debug\lab008.csproj.AssemblyReference.cache
+D:\C#\lab08\lab008\lab008\obj\Debug\lab008.csproj.CoreCompileInputs.cache
+D:\C#\lab08\lab008\lab008\obj\Debug\lab008.exe
+D:\C#\lab08\lab008\lab008\obj\Debug\lab008.pdb

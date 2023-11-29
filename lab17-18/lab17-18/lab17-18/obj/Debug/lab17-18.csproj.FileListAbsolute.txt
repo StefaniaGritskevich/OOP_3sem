@@ -1,0 +1,7 @@
+D:\C#\lab17-18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.AssemblyReference.cache
+D:\C#\lab17-18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.CoreCompileInputs.cache
+D:\C#\lab17-18\lab17-18\lab17-18\bin\Debug\lab17-18.exe.config
+D:\C#\lab17-18\lab17-18\lab17-18\bin\Debug\lab17-18.exe
+D:\C#\lab17-18\lab17-18\lab17-18\bin\Debug\lab17-18.pdb
+D:\C#\lab17-18\lab17-18\lab17-18\obj\Debug\lab17-18.exe
+D:\C#\lab17-18\lab17-18\lab17-18\obj\Debug\lab17-18.pdb

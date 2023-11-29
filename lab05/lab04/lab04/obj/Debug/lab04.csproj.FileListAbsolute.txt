@@ -1,0 +1,13 @@
+D:\C#\lab04\lab04\lab04\bin\Debug\lab04.exe.config
+D:\C#\lab04\lab04\lab04\bin\Debug\lab04.exe
+D:\C#\lab04\lab04\lab04\bin\Debug\lab04.pdb
+D:\C#\lab04\lab04\lab04\obj\Debug\lab04.csproj.AssemblyReference.cache
+D:\C#\lab04\lab04\lab04\obj\Debug\lab04.csproj.CoreCompileInputs.cache
+D:\C#\lab04\lab04\lab04\obj\Debug\lab04.exe
+D:\C#\lab04\lab04\lab04\obj\Debug\lab04.pdb
+D:\C#\lab05\lab04\lab04\bin\Debug\lab04.exe.config
+D:\C#\lab05\lab04\lab04\bin\Debug\lab04.exe
+D:\C#\lab05\lab04\lab04\bin\Debug\lab04.pdb
+D:\C#\lab05\lab04\lab04\obj\Debug\lab04.csproj.CoreCompileInputs.cache
+D:\C#\lab05\lab04\lab04\obj\Debug\lab04.exe
+D:\C#\lab05\lab04\lab04\obj\Debug\lab04.pdb

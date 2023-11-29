@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Exam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Goal>Биология</Goal>
+  <Time>120</Time>
+  <Grade>2</Grade>
+</Exam>

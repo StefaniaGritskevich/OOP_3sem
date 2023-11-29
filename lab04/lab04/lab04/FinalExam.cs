@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab_4_NET
+{
+    internal partial class FinalExam : Exam
+    {
+        bool admission;
+
+        internal bool Admission
+        {
+            get { return admission; }
+            set { admission = value; }
+        }
+
+        internal FinalExam(string goal, int number, bool admission, int time) : base(goal, number, time)
+        {
+            Admission = admission;
+
+        }
+
+        public override string ToString()
+        {
+            Console.WriteLine($"Предмет: {Goal}");
+            Console.WriteLine($"Время: {Time}мин");
+            Console.WriteLine($"Оценка: {Grade}");
+            string admissionStatus = admission ? "Допущен к выпускному экзамену" : "Не допущен к выпускному экзамену";
+            Console.WriteLine( $"Статус допуска: {admissionStatus}");
+            Console.WriteLine("------------------------------------------------------------");
+            return Goal;
+        }
+
+        internal override void Print()
+        {
+            Console.WriteLine($"Предмет: {Goal}");
+            Console.WriteLine($"Время: {Time}мин");
+            Console.WriteLine($"Оценка: {Grade}");
+            string admissionStatus = admission ? "Допущен к выпускному экзамену" : "Не допущен к выпускному экзамену";
+            Console.WriteLine($"Статус допуска: {admissionStatus}");
+        }
+
+
+    }
+}

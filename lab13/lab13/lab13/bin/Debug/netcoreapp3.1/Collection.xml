@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfExam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exam>
+    <Goal>Математика</Goal>
+    <Time>45</Time>
+    <Grade>3</Grade>
+  </Exam>
+  <Exam>
+    <Goal>Механика</Goal>
+    <Time>90</Time>
+    <Grade>6</Grade>
+  </Exam>
+  <Exam>
+    <Goal>Биология</Goal>
+    <Time>120</Time>
+    <Grade>2</Grade>
+  </Exam>
+</ArrayOfExam>

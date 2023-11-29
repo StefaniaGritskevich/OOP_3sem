@@ -1,0 +1,89 @@
+09.11.2023 14:47:23
+-------Disk Info-------
+Название: C:\
+Тип: Fixed
+Объем диска: 104189386752
+Свободное пространство: 4083658752
+Метка диска: 
+Файловой системе : NTFS
+Название: D:\
+Тип: Fixed
+Объем диска: 401882476544
+Свободное пространство: 194661498880
+Метка диска: 
+Файловой системе : NTFS
+Название: E:\
+Тип: Fixed
+Объем диска: 5368705024
+Свободное пространство: 3715981312
+Метка диска: DRIVERS
+Файловой системе : NTFS
+-------FileInfo-------
+Полный путь: D:\C#\lab12!\for_12_oop.txt
+Имя файла: for_12_oop
+Время создания: 03.11.2023 20:15:56
+Размер: 8
+Расширение: .txt
+Полный путь 2: D:\C#\lab12!
+Полный путь 3: D:\C#\lab12!
+-------DirInfo-------
+|-------DirInfo-------|
+Подкаталоги:
+C:\Program Files\AMD
+C:\Program Files\Application Verifier
+C:\Program Files\Common Files
+C:\Program Files\dotnet
+C:\Program Files\Eclipse Foundation
+C:\Program Files\Git
+C:\Program Files\IIS
+C:\Program Files\IIS Express
+C:\Program Files\Internet Explorer
+C:\Program Files\Microsoft Office
+C:\Program Files\Microsoft SDKs
+C:\Program Files\Microsoft SQL Server
+C:\Program Files\Microsoft Update Health Tools
+C:\Program Files\ModifiableWindowsApps
+C:\Program Files\National Instruments
+C:\Program Files\Oracle
+C:\Program Files\PCHealthCheck
+C:\Program Files\RUXIM
+C:\Program Files\totalcmd
+C:\Program Files\Uninstall Information
+C:\Program Files\VS2010Schemas
+C:\Program Files\VS2012Schemas
+C:\Program Files\Windows Defender
+C:\Program Files\Windows Defender Advanced Threat Protection
+C:\Program Files\Windows Mail
+C:\Program Files\Windows Media Player
+C:\Program Files\Windows Multimedia Platform
+C:\Program Files\Windows NT
+C:\Program Files\Windows Photo Viewer
+C:\Program Files\Windows Portable Devices
+C:\Program Files\Windows Security
+C:\Program Files\Windows Sidebar
+C:\Program Files\WindowsApps
+C:\Program Files\WindowsPowerShell
+Количество поддиректориев: 34
+
+
+Файлы:
+C:\Program Files\desktop.ini
+Количество файлов: 1
+Дата создания директория: 07.12.2019 12:14:52
+Родительский каталог: C:\
+-------DirInfo-------
+|-------DirInfo-------|
+Подкаталоги:
+D:\C#\lab12!\forzip
+D:\C#\lab12!\GSAFiles
+D:\C#\lab12!\GSAInspect
+D:\C#\lab12!\lab12!
+Количество поддиректориев: 4
+
+
+Файлы:
+D:\C#\lab12!\for_12_oop.txt
+D:\C#\lab12!\gsalogfile.txt
+Количество файлов: 2
+Дата создания директория: 03.11.2023 19:37:52
+Родительский каталог: D:\C#
